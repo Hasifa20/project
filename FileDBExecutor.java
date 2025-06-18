@@ -34,7 +34,7 @@ public class FileDBExecutor4 {
 
         String url = "jdbc:mysql://localhost:3306/companydb";
         String user = "root";
-        String password = "madhuri@123";
+        String password = "root";
 
         Scanner scanner = new Scanner(System.in);
 
